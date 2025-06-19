@@ -5,8 +5,6 @@ __pycache__/
 pyproject.toml
 *.lock
 
-07.py
-
 # C extensions
 *.so
 
